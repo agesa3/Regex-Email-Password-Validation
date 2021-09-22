@@ -1,33 +1,15 @@
-li {
-    list-style-type: none;
-    font-size: 16pt;
-}
-.mail {
-    margin: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 400px;
-    background: teal;
-    border: 1px soild silver;
-}
+*{
+    margin: 0;
+    padding:0;
 
-.mail h2 {
-    margin-left: 38px;
-    color: white;
 }
-
-input {
-    font-size: 20pt;
+.form_user{
+    margin: 0 auto;
+    width: 40%;
+    /* display: block;
+    justify-content: center !important; */
 }
-
-input:focus,
-textarea:focus {
-    background-color: lightyellow;
-}
-input validate {
-    font-size: 12pt;
-}
-.rq {
-    color: #ff0000;
-    font-size: 10pt;
+.heading{
+    text-align: center;
+    margin-top: 50px;
 }
